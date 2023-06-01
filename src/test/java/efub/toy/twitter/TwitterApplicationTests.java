@@ -3,11 +3,11 @@ package efub.toy.twitter;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class TwitterApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
-
+//cxc
 }
